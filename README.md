@@ -4,7 +4,7 @@
 
 ## 🚀 Featured Projects
 - [jaswin-portfolio](https://github.com/jaswin-codes/jaswin-portfolio) — 3D interactive portfolio with Three.js & AI chatbot
-- [AfriGuard]([https://github.com/jaswin-codes/AfriGuard](https://github.com/ubayd-hattas/AfriGuard)) — Hackathon project
+- [AfriGuard](https://github.com/ubayd-hattas/AfriGuard)) — Hackathon project
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
