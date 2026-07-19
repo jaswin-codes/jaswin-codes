@@ -11,7 +11,7 @@ I build vibecoded side projects that catch my interest whenever an interesting i
 
 ### 🚀 What I recently built
 - **[jaswin-portfolio](https://github.com/jaswin-codes/jaswin-portfolio)** - A 3D interactive portfolio built with Three.js, featuring a real-time ESP32 microcontroller render, section worlds and recruiter mode.
-- **[AfriGuard](https://github.com/jaswin-codes/AfriGuard)** — A multilingual safety red-teaming framework for South African languages for a hackathon with my team. Evaluated frontier LLMs across 7 languages and 4 harm categories, exposing critical safety vulnerabilities in low-resource languages.
+- **[AfriGuard](https://github.com/ubayd-hattas/AfriGuard)** — A multilingual safety red-teaming framework for South African languages for a hackathon with my team. Evaluated frontier LLMs across 7 languages and 4 harm categories, exposing critical safety vulnerabilities in low-resource languages.
 
 ### 🤝 Open to collaborate on
 Hackathons, open-source Python/TypeScript projects, and anything involving 3D web, AI automation, or LLM safety research. Reach me at jaswinchinthala08@gmail.com or on [LinkedIn](https://linkedin.com/in/jaswin-chinthala).
