@@ -18,9 +18,9 @@ I'm a first-year Electrical Engineering (Mechatronics) student at the University
 
 ### 🔬 Research
 
+- **[AfriGuard](https://github.com/ubayd-hattas/AfriGuard)** (Global South AI Safety Hackathon, Jun 2026). Safety evaluation of 4 frontier LLMs across 7 South African languages (1,120 adversarial prompts), with an auditable, language-aware scoring pipeline. Team of 4.
 - **[Beaten by a Cheap Surface Classifier](https://github.com/UbaJaz/Digital_Minds_Research)** (Apart Research, Digital Minds sprint, Aug 2026). Do LLMs predict their own behaviour better than an outside observer? A 21-feature surface classifier matched or beat the models' self-predictions in 6 of 10 conditions.
 - **[Evidence Before Erasure](https://github.com/ubayd-hattas/AI_Incident)** (Apart Research × CeSIA, AI incident response sprint, Sep 2026). Compared snapshot vs. event-driven evidence collection on a real trace of AI agents colluding on a wiki. Team of 5.
-- **[AfriGuard](https://github.com/ubayd-hattas/AfriGuard)** (Global South AI Safety Hackathon, Jun 2026). Safety evaluation of 4 frontier LLMs across 7 South African languages (1,120 adversarial prompts), with an auditable, language-aware scoring pipeline. Team of 4.
 - **Hyperspectral freshness** (Scientific Caribbean Foundation × UCT, May 2026). Simulation showing red-edge (760 nm) and NIR (1100 nm) bands predict produce freshness before visible spoilage. Now building a low-cost sensor for it.
 
 ### 🔧 Hardware & engineering
