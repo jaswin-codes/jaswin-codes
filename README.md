@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jaswin 👋</h1>
 
 <p align="center">
-  Mechatronics @ UCT · UCT Racing EV Research lead · AI-safety research (Apart sprints)
+  Mechatronics @ UCT · UCT Racing EV Research lead · robotics, embedded & AI safety
 </p>
 
 <p align="center">
