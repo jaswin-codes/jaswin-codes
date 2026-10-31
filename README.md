@@ -28,7 +28,7 @@ I'm a first-year Electrical Engineering (Mechatronics) student at the University
 - **UCT Racing:** leading the new EV Research subteam (electric drivetrains and battery chemistry), aiming for a Formula Student UK concept-class entry in 2027. Before that, power subsystem: cooling and telemetry research.
 - **EMi Lab vacation work:** MATLAB/Simulink/Simscape battery management system models (cell balancing, state of health) and a report on swappable batteries for electric tuk-tuks.
 - **Water level alarm (EEE1009S):** analogue design with LM324 comparators, CMOS logic and 555 timers, verified in LTspice and built on a breadboard.
-- **Robotics:** learning ROS 2 ([first package](https://github.com/jaswin-codes/my_package)) towards an autonomous mobile robot, and building an ESP32-C3 desk robot.
+- **Robotics:** learning ROS 2 ([first package](https://github.com/jaswin-codes/ros2-first-package)) towards an autonomous mobile robot, and building an ESP32-C3 desk robot.
 
 ### 💻 Software projects
 
