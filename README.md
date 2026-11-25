@@ -16,28 +16,35 @@ I'm a first-year Electrical Engineering (Mechatronics) student at the University
 
 ---
 
-### 🔬 Research
+### Products
+
+- **[Kwaai](https://github.com/UbaJaz/kwaai)**: anonymous course and lecturer reviews for UCT students, built with a co-founder. A Node/Express web app with moderation, staff accounts, class tools and automated backups. Live at [kwaai.onrender.com](https://kwaai.onrender.com/).
+- **[Color Hunt](https://github.com/UbaJaz/Color_Hunt_YC1)**: a pass-and-play party game where players race to find real objects matching a target colour, scored in CIELAB with CIEDE2000. React + TypeScript with Supabase multiplayer. I wrote most of the codebase. [Play it](https://mvp-one-blush.vercel.app).
+
+### Research
 
 - **[AfriGuard](https://github.com/ubayd-hattas/AfriGuard)** (Global South AI Safety Hackathon, Jun 2026). Safety evaluation of 4 frontier LLMs across 7 South African languages (1,120 adversarial prompts), with an auditable, language-aware scoring pipeline. Team of 4.
 - **[Beaten by a Cheap Surface Classifier](https://github.com/UbaJaz/Digital_Minds_Research)** (Apart Research, Digital Minds sprint, Aug 2026). Do LLMs predict their own behaviour better than an outside observer? A 21-feature surface classifier matched or beat the models' self-predictions in 6 of 10 conditions.
 - **[Evidence Before Erasure](https://github.com/ubayd-hattas/AI_Incident)** (Apart Research × CeSIA, AI incident response sprint, Sep 2026). Compared snapshot vs. event-driven evidence collection on a real trace of AI agents colluding on a wiki. Team of 5.
 - **Hyperspectral freshness** (Scientific Caribbean Foundation × UCT, May 2026). Simulation showing red-edge (760 nm) and NIR (1100 nm) bands predict produce freshness before visible spoilage. Now building a low-cost sensor for it.
 
-### 🔧 Hardware & engineering
+### Hardware & robotics
 
 - **UCT Racing:** leading the new EV Research subteam (electric drivetrains and battery chemistry), aiming for a Formula Student UK concept-class entry in 2027. Before that, power subsystem: cooling and telemetry research.
 - **EMi Lab vacation work:** MATLAB/Simulink/Simscape battery management system models (cell balancing, state of health) and a report on swappable batteries for electric tuk-tuks.
 - **Water level alarm (EEE1009S):** analogue design with LM324 comparators, CMOS logic and 555 timers, verified in LTspice and built on a breadboard.
-- **Robotics:** learning ROS 2 ([first package](https://github.com/jaswin-codes/ros2-first-package)) towards an autonomous mobile robot, and building an ESP32-C3 desk robot.
+- **Vision-guided pick-and-place (simulation):** a robot arm in Gazebo that finds blocks with YOLO and places them; 30 of 30 traced picks succeed with a worst placement error of 2.9 mm. Next step is the real SO-101 arm.
+- **Hand-controlled drone (simulation):** fly a MuJoCo quadrotor with hand gestures through a webcam (OpenCV + MediaPipe), with an optional ROS 2 bridge.
+- **Robotics:** learning ROS 2 ([first package](https://github.com/jaswin-codes/ros2-first-package), [URDF robot with a depth-camera obstacle node](https://github.com/jaswin-codes/urdf_example)) towards an autonomous mobile robot, and building an ESP32-C3 desk robot.
 
-### 💻 Software projects
+### Software
 
 - **[jaswin-portfolio](https://github.com/jaswin-codes/jaswin-portfolio)**: my 3D portfolio site, built around an ESP32 model in Three.js, with a flat recruiter mode. Live at [jaswin.me](https://jaswin.me).
 - **[StatsGeeks](https://github.com/jaswin-codes/StatsGeeks)**: coordinate-aware random forest for Madrid → Amsterdam transfer learning. Won the Best F1 Score category at the StatsGeeks Data Science Hackathon.
 - **[jarvis-automation](https://github.com/jaswin-codes/jarvis-automation)**: voice-controlled desktop assistant with wake-word detection, voiceprint authentication and clap triggers.
-- **[jutsu_code_stage1](https://github.com/jaswin-codes/jutsu_code_stage1)**: Naruto hand-sign combos recognised in real time with OpenCV and MediaPipe.
+- **[JutsuDevilFruits](https://github.com/jaswin-codes/JutsuDevilFruits)**: anime powers over your webcam: Naruto hand-sign combos and One Piece abilities recognised in real time with OpenCV and MediaPipe.
 
-### 🌱 Currently
+### Currently
 
 - Learning ROS 2 and control systems
 - Co-founder and secretary of the UCT Maker Society; studio assistant at the d-school Makerspace
@@ -45,7 +52,7 @@ I'm a first-year Electrical Engineering (Mechatronics) student at the University
 
 ---
 
-### 🛠️ Tools
+### Tools
 
 **Hardware & embedded**<br>
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
