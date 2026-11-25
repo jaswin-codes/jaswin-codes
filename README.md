@@ -19,7 +19,7 @@ I'm a first-year Electrical Engineering (Mechatronics) student at the University
 ### Products
 
 - **[Kwaai](https://github.com/UbaJaz/kwaai)**: anonymous course and lecturer reviews for UCT students, built with a co-founder. A Node/Express web app with moderation, staff accounts, class tools and automated backups. Live at [kwaai.onrender.com](https://kwaai.onrender.com/).
-- **[Color Hunt](https://github.com/UbaJaz/Color_Hunt_YC1)**: a pass-and-play party game where players race to find real objects matching a target colour, scored in CIELAB with CIEDE2000. React + TypeScript with Supabase multiplayer. I wrote most of the codebase. [Play it](https://mvp-one-blush.vercel.app).
+- **[Color Hunt](https://github.com/UbaJaz/Color_Hunt_YC1)**: a pass-and-play party game where players race to find real objects matching a target colour, scored in CIELAB with CIEDE2000. React + TypeScript with Supabase multiplayer. [Play it](https://mvp-one-blush.vercel.app).
 
 ### Research
 
